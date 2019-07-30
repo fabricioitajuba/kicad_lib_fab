@@ -1,0 +1,17 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HR911105A
+D Conector RJ45 com transformador de isolação
+$ENDCMP
+#
+$CMP MA1RCx
+D Relé ultra-miniatura
+F https://www.metaltex.com.br/assets/produtos/pdf/ma.pdf
+$ENDCMP
+#
+$CMP MMBD4148CC
+D Small Signal Diode
+F http://www.mouser.com/ds/2/149/MMBD4148-69053.pdf
+$ENDCMP
+#
+#End Doc Library
