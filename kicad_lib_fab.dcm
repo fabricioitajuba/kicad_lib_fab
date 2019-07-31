@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP FSDM0365RL
+D Green Mode Fairchild Power Switch
+F http://www.mouser.com/ds/2/149/FairchildSemiconductor_16146734254-795977.pdf
+$ENDCMP
+#
 $CMP HR911105A
 D Conector RJ45 - MagJack
 K MagJack
@@ -14,6 +19,12 @@ $ENDCMP
 $CMP MMBD4148CC
 D Small Signal Diode
 F http://www.mouser.com/ds/2/149/MMBD4148-69053.pdf
+$ENDCMP
+#
+$CMP UF4007
+D Fast Rectifiers
+K simulation
+F https://www.mouser.com/ds/2/149/UF4001-890177.pdf
 $ENDCMP
 #
 #End Doc Library
