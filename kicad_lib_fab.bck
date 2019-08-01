@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP CAP30-MOD
+D Unpolarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
 $CMP FSDM0365RL
 D Green Mode Fairchild Power Switch
 F http://www.mouser.com/ds/2/149/FairchildSemiconductor_16146734254-795977.pdf
@@ -22,9 +28,9 @@ F http://www.mouser.com/ds/2/149/MMBD4148-69053.pdf
 $ENDCMP
 #
 $CMP UF4007
-D Diode symbol for simulation only. Pin order incompatible with official kicad footprints
-K simulation
-F ~
+D 50V 1A General Purpose Rectifier Diode, DO-41
+K diode
+F http://www.vishay.com/docs/88503/1n4001.pdf
 $ENDCMP
 #
 #End Doc Library
