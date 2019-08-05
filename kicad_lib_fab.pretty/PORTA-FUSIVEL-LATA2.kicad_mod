@@ -1,4 +1,4 @@
-(module PORTA-FUSIVEL-LATA2 (layer F.Cu) (tedit 5D42D820)
+(module PORTA-FUSIVEL-LATA2 (layer F.Cu) (tedit 5D486EE4)
   (fp_text reference F** (at 10.5 -8.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -26,4 +26,9 @@
   (pad 6 thru_hole roundrect (at 5 -1.5) (size 2.794 2.794) (drill 2.032) (layers *.Cu *.Mask) (roundrect_rratio 0.25))
   (pad 7 thru_hole roundrect (at 16 -6.5) (size 2.794 2.794) (drill 2.032) (layers *.Cu *.Mask) (roundrect_rratio 0.25))
   (pad 8 thru_hole roundrect (at 16 -1.5) (size 2.794 2.794) (drill 2.032) (layers *.Cu *.Mask) (roundrect_rratio 0.25))
+  (model "C:/kicad_lib_fab/kicad_3d_fab/Porta fusivel lata minix.wrl"
+    (offset (xyz 0 4 -1))
+    (scale (xyz 0.393701 0.393701 0.393701))
+    (rotate (xyz 0 0 90))
+  )
 )
