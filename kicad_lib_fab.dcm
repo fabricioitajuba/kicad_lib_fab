@@ -27,6 +27,12 @@ D Small Signal Diode
 F http://www.mouser.com/ds/2/149/MMBD4148-69053.pdf
 $ENDCMP
 #
+$CMP PTC-LB550LVF
+D Temperature dependent resistor, positive temperature coefficient
+K resistor PTC thermistor sensor RTD
+F ~
+$ENDCMP
+#
 $CMP UF4007
 D 50V 1A General Purpose Rectifier Diode, DO-41
 K diode
