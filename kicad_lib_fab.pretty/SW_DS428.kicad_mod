@@ -1,8 +1,8 @@
-(module SW_DS428 (layer F.Cu) (tedit 5D407301)
+(module SW_DS428 (layer F.Cu) (tedit 5D51B6B2)
   (fp_text reference CH** (at 0 -20.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value SW_DS428 (at 0 -22) (layer F.Fab) hide
+  (fp_text value SW_DS428 (at -0.127 3.7465) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -4.5 -19) (end -4.5 2) (layer F.SilkS) (width 0.15))
@@ -12,8 +12,8 @@
   (fp_line (start -4 2) (end -4 -19) (layer F.SilkS) (width 0.15))
   (fp_line (start 1 -9.5) (end 0 -9.5) (layer F.SilkS) (width 0.15))
   (fp_line (start 0.5 -10) (end 0.5 -9) (layer F.SilkS) (width 0.15))
-  (pad 2 thru_hole rect (at 0 -17) (size 5.08 5.08) (drill 3.556) (layers *.Cu *.Mask))
-  (pad 3 thru_hole rect (at 0 -6) (size 5.08 5.08) (drill 3.556) (layers *.Cu *.Mask))
+  (pad 3 thru_hole rect (at 0 -17) (size 5.08 5.08) (drill 3.556) (layers *.Cu *.Mask))
+  (pad 2 thru_hole rect (at 0 -6) (size 5.08 5.08) (drill 3.556) (layers *.Cu *.Mask))
   (pad 1 thru_hole rect (at 0 0) (size 5.08 5.08) (drill 3.556) (layers *.Cu *.Mask))
   (model "C:/kicad_lib_fab/kicad_3d_fab/Chave DS428.wrl"
     (at (xyz 0 0 0))
