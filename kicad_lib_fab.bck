@@ -39,4 +39,8 @@ K diode
 F http://www.vishay.com/docs/88503/1n4001.pdf
 $ENDCMP
 #
+$CMP VARICAP
+D Diodo com capacitância variável
+$ENDCMP
+#
 #End Doc Library
