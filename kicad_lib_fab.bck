@@ -6,6 +6,10 @@ K cap capacitor
 F ~
 $ENDCMP
 #
+$CMP Chave_Idall_0142-1
+D Chave de 2 pólos x 2 posições
+$ENDCMP
+#
 $CMP FSDM0365RL
 D Green Mode Fairchild Power Switch
 F http://www.mouser.com/ds/2/149/FairchildSemiconductor_16146734254-795977.pdf

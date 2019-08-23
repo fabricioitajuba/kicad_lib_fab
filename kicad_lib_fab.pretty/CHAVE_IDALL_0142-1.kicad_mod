@@ -1,4 +1,4 @@
-(module CHAVE_IDALL_0142-1 (layer F.Cu) (tedit 5D55653F)
+(module CHAVE_IDALL_0142-1 (layer F.Cu) (tedit 5D5FC8F8)
   (fp_text reference REF** (at 0 -20.828) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -18,9 +18,9 @@
   (pad X2 thru_hole circle (at 2.032 -9.4488) (size 2.54 2.54) (drill 1.524) (layers *.Cu *.Mask))
   (pad A1 thru_hole circle (at -2.032 -13.462) (size 2.54 2.54) (drill 1.524) (layers *.Cu *.Mask))
   (pad A2 thru_hole circle (at 2.032 -13.462) (size 2.54 2.54) (drill 1.524) (layers *.Cu *.Mask))
-  (model "C:/kicad_lib_fab/kicad_3d_fab/Chave 2Px2P.wrl"
+  (model "/home/fabricio/KiCAD/kicad_lib_fab/kicad_3d_fab/Chave 2Px2P.wrl"
     (offset (xyz 0 9.398 0))
-    (scale (xyz 0.393701 0.393701 0.393701))
+    (scale (xyz 0.3937001 0.3937001 0.3937001))
     (rotate (xyz 0 0 90))
   )
 )
