@@ -37,6 +37,12 @@ K resistor PTC thermistor sensor RTD
 F ~
 $ENDCMP
 #
+$CMP Potenciômetro
+D Potentiometer
+K resistor variable
+F ~
+$ENDCMP
+#
 $CMP UF4007
 D 50V 1A General Purpose Rectifier Diode, DO-41
 K diode
