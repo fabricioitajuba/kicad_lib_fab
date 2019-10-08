@@ -1,4 +1,4 @@
-(module Hanrun_HR911105A_RJ45 (layer F.Cu) (tedit 5D409A82)
+(module Hanrun_HR911105A_RJ45 (layer F.Cu) (tedit 5D9CEB8E)
   (descr http://www.kosmodrom.com.ua/pdf/HR911105A.pdf)
   (tags "RJ45 Magjack")
   (fp_text reference REF** (at 4.45 -4.96) (layer F.SilkS)
@@ -53,7 +53,7 @@
   (pad 10 thru_hole circle (at 0.355 11.26) (size 1.524 1.524) (drill 1.016) (layers *.Cu *.Mask))
   (pad 12 thru_hole circle (at 11.065 11.26) (size 1.524 1.524) (drill 1.016) (layers *.Cu *.Mask))
   (pad 11 thru_hole circle (at 8.525 11.26) (size 1.524 1.524) (drill 1.016) (layers *.Cu *.Mask))
-  (model C:/kicad_lib_fab/kicad_3d_fab/HR911105A.wrl
+  (model /home/fabricio/KiCAD/kicad_lib_fab/kicad_3d_fab/HR911105A.wrl
     (offset (xyz -3.556 -17.272 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))

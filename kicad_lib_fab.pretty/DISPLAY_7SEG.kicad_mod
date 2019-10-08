@@ -1,4 +1,4 @@
-(module DISPLAY_7SEG (layer F.Cu) (tedit 5D9CF86F)
+(module DISPLAY_7SEG (layer F.Cu) (tedit 5D9CEADB)
   (fp_text reference REF** (at 7.112 -19.05) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -27,7 +27,7 @@
   (pad 8 thru_hole circle (at 6.35 -17.018) (size 1.524 1.524) (drill 1.016) (layers *.Cu *.Mask))
   (pad 7 thru_hole circle (at 8.89 -17.018) (size 1.524 1.524) (drill 1.016) (layers *.Cu *.Mask))
   (pad 6 thru_hole circle (at 11.43 -17.018) (size 1.524 1.524) (drill 1.016) (layers *.Cu *.Mask))
-  (model "C:/kicad_lib_fab/kicad_3d_fab/Display 7 seg vermelho.wrl"
+  (model "/home/fabricio/KiCAD/kicad_lib_fab/kicad_3d_fab/Display 7 seg vermelho.wrl"
     (offset (xyz 0 -0.508 0))
     (scale (xyz 0.3937001 0.3937001 0.3937001))
     (rotate (xyz 0 0 0))

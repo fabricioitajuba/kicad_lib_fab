@@ -1,4 +1,4 @@
-(module Trimpot-Quadrado (layer F.Cu) (tedit 5D9CC2DD)
+(module Trimpot-Quadrado (layer F.Cu) (tedit 5D9CECA6)
   (fp_text reference REF** (at 0 -10.668) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -15,7 +15,7 @@
   (pad 1 thru_hole circle (at -2.54 -7.62) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 2.54 -7.62) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 0 -2.54) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
-  (model "C:/kicad_lib_fab/kicad_3d_fab/trimpot quadrado.wrl"
+  (model "/home/fabricio/KiCAD/kicad_lib_fab/kicad_3d_fab/trimpot quadrado.wrl"
     (offset (xyz 4.826 9.906000000000001 0))
     (scale (xyz 0.3937001 0.3937001 0.3937001))
     (rotate (xyz 0 0 180))
