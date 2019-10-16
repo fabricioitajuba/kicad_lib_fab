@@ -1,5 +1,23 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 74HC373
+D 8-bit Latch, 3-state outputs
+K TTL REG DFF DFF8 LATCH
+F http://www.ti.com/lit/gpn/sn74LS373
+$ENDCMP
+#
+$CMP 74HC541
+D 8-bit Buffer/Line Driver 3-state outputs
+K TTL BUFFER 3State BUS
+F http://www.ti.com/lit/gpn/sn74LS541
+$ENDCMP
+#
+$CMP 74HCT541
+D 8-bit Buffer/Line Driver 3-state outputs
+K TTL BUFFER 3State BUS
+F http://www.ti.com/lit/gpn/sn74HCT541
+$ENDCMP
+#
 $CMP CAP30-MOD
 D Unpolarized capacitor
 K cap capacitor
