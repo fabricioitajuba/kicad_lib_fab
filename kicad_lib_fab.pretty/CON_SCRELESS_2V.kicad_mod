@@ -1,4 +1,4 @@
-(module CON_SCRELESS_2V (layer F.Cu) (tedit 5D9CA113)
+(module CON_SCRELESS_2V (layer F.Cu) (tedit 5D9CEC6D)
   (fp_text reference REF** (at 0 -14.732) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -33,7 +33,7 @@
   (pad 2 thru_hole roundrect (at -2.54 -10.16) (size 2.54 2.54) (drill 1.524) (layers *.Cu *.Mask) (roundrect_rratio 0.25))
   (pad 3 thru_hole roundrect (at 2.54 -2.54) (size 2.54 2.54) (drill 1.524) (layers *.Cu *.Mask) (roundrect_rratio 0.25))
   (pad 4 thru_hole roundrect (at 2.54 -10.16) (size 2.54 2.54) (drill 1.524) (layers *.Cu *.Mask) (roundrect_rratio 0.25))
-  (model C:/kicad_lib_fab/kicad_3d_fab/screw2v.wrl
+  (model /home/fabricio/KiCAD/kicad_lib_fab/kicad_3d_fab/screw2v.wrl
     (offset (xyz -6.0452 1.016 0))
     (scale (xyz 0.3937001 0.3937001 0.3937001))
     (rotate (xyz 0 0 0))

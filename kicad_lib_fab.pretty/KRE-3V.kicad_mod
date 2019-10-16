@@ -1,4 +1,4 @@
-(module KRE-3V (layer F.Cu) (tedit 5D4072AC)
+(module KRE-3V (layer F.Cu) (tedit 5D9CEBC2)
   (fp_text reference CN** (at -0.508 6.223) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -25,7 +25,7 @@
   (pad 3 thru_hole roundrect (at 10.16 0) (size 3.048 3.048) (drill 1.778) (layers *.Cu *.Mask) (roundrect_rratio 0.083))
   (pad 2 thru_hole roundrect (at 5.08 0) (size 3.048 3.048) (drill 1.778) (layers *.Cu *.Mask) (roundrect_rratio 0.083))
   (pad 1 thru_hole roundrect (at 0 0) (size 3.048 3.048) (drill 1.778) (layers *.Cu *.Mask) (roundrect_rratio 0.083))
-  (model C:/kicad_lib_fab/kicad_3d_fab/KRE_3VIAS_Metaltex.wrl
+  (model /home/fabricio/KiCAD/kicad_lib_fab/kicad_3d_fab/KRE_3VIAS_Metaltex.wrl
     (offset (xyz -2.8956 -5.3848 0))
     (scale (xyz 0.393701 0.393701 0.393701))
     (rotate (xyz 0 0 0))

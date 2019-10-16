@@ -1,4 +1,4 @@
-(module Trimpot-Retangular (layer F.Cu) (tedit 5D9CBFD1)
+(module Trimpot-Retangular (layer F.Cu) (tedit 5D9CECB2)
   (fp_text reference REF** (at -2.794 -3.048) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -12,7 +12,7 @@
   (pad 1 thru_hole circle (at -2.54 0) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 0 0) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 2.54 0) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
-  (model "C:/kicad_lib_fab/kicad_3d_fab/trimpot retangular.wrl"
+  (model "/home/fabricio/KiCAD/kicad_lib_fab/kicad_3d_fab/trimpot retangular.wrl"
     (offset (xyz 4.8 2.2 0))
     (scale (xyz 0.3937001 0.3937001 0.3937001))
     (rotate (xyz 0 0 180))
