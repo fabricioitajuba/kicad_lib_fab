@@ -1,4 +1,4 @@
-(module con-usb (layer F.Cu) (tedit 5DA726E4)
+(module con-usb (layer F.Cu) (tedit 5DA736A4)
   (fp_text reference REF** (at 2.032 -12.827) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -15,7 +15,7 @@
   (pad 1 thru_hole circle (at 1.016 -7.239) (size 2.032 2.032) (drill 1.016) (layers *.Cu *.Mask))
   (pad 4 thru_hole circle (at 3.7338 -7.239) (size 2.032 2.032) (drill 1.016) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 3.7338 -4.7498) (size 2.032 2.032) (drill 1.016) (layers *.Cu *.Mask))
-  (model C:/kicad_lib_fab/kicad_3d_fab/con-usb.wrl
+  (model /home/fabricio/KiCAD/kicad_lib_fab/kicad_3d_fab/con-usb.wrl
     (offset (xyz -0.4318 0 0))
     (scale (xyz 0.3937001 0.3937001 0.3937001))
     (rotate (xyz 0 0 0))

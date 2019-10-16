@@ -1,4 +1,4 @@
-(module Buzzer (layer F.Cu) (tedit 5DA73221)
+(module Buzzer (layer F.Cu) (tedit 5DA736B5)
   (fp_text reference REF** (at 0.635 -6.6548) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -10,7 +10,7 @@
   (fp_line (start -7.366 -0.762) (end -7.366 0.762) (layer F.SilkS) (width 0.254))
   (pad 1 thru_hole roundrect (at -3.81 0) (size 2.54 2.54) (drill 1.524) (layers *.Cu *.Mask) (roundrect_rratio 0.25))
   (pad 2 thru_hole rect (at 3.81 0) (size 2.54 2.54) (drill 1.524) (layers *.Cu *.Mask))
-  (model C:/kicad_lib_fab/kicad_3d_fab/Buzzer.wrl
+  (model /home/fabricio/KiCAD/kicad_lib_fab/kicad_3d_fab/Buzzer.wrl
     (offset (xyz -5.969 -5.969 0))
     (scale (xyz 0.3937001 0.3937001 0.3937001))
     (rotate (xyz 0 0 0))

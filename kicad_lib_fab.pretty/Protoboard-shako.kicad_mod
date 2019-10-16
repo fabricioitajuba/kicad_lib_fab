@@ -1,4 +1,4 @@
-(module Protoboard-shako (layer F.Cu) (tedit 5DA72B1C)
+(module Protoboard-shako (layer F.Cu) (tedit 5DA7367D)
   (fp_text reference REF** (at 2.286 -46.863) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -13,7 +13,7 @@
   (pad "" np_thru_hole circle (at 4.953 -39.624) (size 3.048 3.048) (drill 3.048) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 140.081 -6.096) (size 3.048 3.048) (drill 3.048) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 140.081 -39.624) (size 3.048 3.048) (drill 3.048) (layers *.Cu *.Mask))
-  (model "C:/kicad_lib_fab/kicad_3d_fab/protoboard shako.wrl"
+  (model "/home/fabricio/KiCAD/kicad_lib_fab/kicad_3d_fab/protoboard shako.wrl"
     (offset (xyz 72.39 22.987 0))
     (scale (xyz 0.3937001 0.3937001 0.3937001))
     (rotate (xyz 0 0 0))
