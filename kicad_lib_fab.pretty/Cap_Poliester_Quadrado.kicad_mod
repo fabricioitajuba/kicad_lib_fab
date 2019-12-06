@@ -1,4 +1,4 @@
-(module Cap_Poliester_Quadrado (layer F.Cu) (tedit 5DC95842)
+(module Cap_Poliester_Quadrado (layer F.Cu) (tedit 5DEAAA47)
   (fp_text reference REF** (at 2 -12) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -9,9 +9,9 @@
   (fp_line (start 0 -11) (end 18 -11) (layer F.SilkS) (width 0.12))
   (fp_line (start 18 -11) (end 18 0) (layer F.SilkS) (width 0.12))
   (fp_line (start 18 0) (end 0 0) (layer F.SilkS) (width 0.12))
-  (pad 1 thru_hole roundrect (at 1.5 -5.5) (size 3 3) (drill 1) (layers *.Cu *.Mask) (roundrect_rratio 0.25))
-  (pad 2 thru_hole roundrect (at 16.5 -5.5) (size 3 3) (drill 1) (layers *.Cu *.Mask) (roundrect_rratio 0.25))
-  (model C:/kicad_lib_fab/kicad_3d_fab/Cap-Poliester-18x11x18.wrl
+  (pad 1 thru_hole roundrect (at 1.5 -5.5) (size 3 3) (drill 1.5) (layers *.Cu *.Mask) (roundrect_rratio 0.25))
+  (pad 2 thru_hole roundrect (at 16.5 -5.5) (size 3 3) (drill 1.5) (layers *.Cu *.Mask) (roundrect_rratio 0.25))
+  (model /home/fabricio/KiCAD/kicad_lib_fab/kicad_3d_fab/Cap-Poliester-18x11x18.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.3937001 0.3937001 0.3937001))
     (rotate (xyz 0 0 0))
