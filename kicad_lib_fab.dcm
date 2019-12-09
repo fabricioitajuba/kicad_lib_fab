@@ -87,6 +87,12 @@ K MagJack
 F http://www.kosmodrom.com.ua/pdf/HR911105A.pdf
 $ENDCMP
 #
+$CMP IRFP450
+D 14A Id, 500V Vds, 0.40Ohm Rds, N-Channel MOSFET
+K N-Channel MOSFET
+F http://www.vishay.com/docs/91233/91233.pdf
+$ENDCMP
+#
 $CMP JX2RCx
 F https://www.metaltex.com.br/assets/produtos/pdf/jx2.pdf
 $ENDCMP
@@ -111,6 +117,24 @@ $CMP Potenciômetro
 D Potentiometer
 K resistor variable
 F ~
+$ENDCMP
+#
+$CMP TDA2006
+D 12W Audio Amplifier, TO-220-5
+K audio amplifier
+F http://www.st.com/resource/en/datasheet/cd00000123.pdf
+$ENDCMP
+#
+$CMP TIP35
+D NPN transistor, base/collector/emitter
+K transistor NPN
+F https://www.onsemi.com/pub/Collateral/TIP35A-D.PDF
+$ENDCMP
+#
+$CMP TIP36
+D PNP transistor, base/collector/emitter
+K transistor PNP
+F https://www.onsemi.com/pub/Collateral/TIP35A-D.PDF
 $ENDCMP
 #
 $CMP UF4007

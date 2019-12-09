@@ -9,17 +9,35 @@ $ENDCMP
 $CMP 6A1
 D 100V 6A General Purpose Rectifier Diode, D6
 K diode
-F http://www.vishay.com/docs/88503/1n4001.pdf
+F http://www.eicsemi.com/datasheet/6A05_10.PDF
+$ENDCMP
+#
+$CMP 6A10
+D 1000V 6A General Purpose Rectifier Diode, D6
+K diode
+F http://www.eicsemi.com/datasheet/6A05_10.PDF
 $ENDCMP
 #
 $CMP 6A2
 D 200V 6A General Purpose Rectifier Diode, D6
 K diode
-F http://www.vishay.com/docs/88503/1n4001.pdf
+F http://www.eicsemi.com/datasheet/6A05_10.PDF
 $ENDCMP
 #
 $CMP 6A4
-D 400V General Purpose Rectifier Diode, D6
+D 400V 6A General Purpose Rectifier Diode, D6
+K diode
+F http://www.eicsemi.com/datasheet/6A05_10.PDF
+$ENDCMP
+#
+$CMP 6A6
+D 600V 6A General Purpose Rectifier Diode, D6
+K diode
+F http://www.eicsemi.com/datasheet/6A05_10.PDF
+$ENDCMP
+#
+$CMP 6A8
+D 800V 6A General Purpose Rectifier Diode, D6
 K diode
 F http://www.eicsemi.com/datasheet/6A05_10.PDF
 $ENDCMP
@@ -69,6 +87,12 @@ K MagJack
 F http://www.kosmodrom.com.ua/pdf/HR911105A.pdf
 $ENDCMP
 #
+$CMP IRFP450
+D 14A Id, 500V Vds, 0.40Ohm Rds, N-Channel MOSFET
+K N-Channel MOSFET
+F http://www.vishay.com/docs/91233/91233.pdf
+$ENDCMP
+#
 $CMP JX2RCx
 F https://www.metaltex.com.br/assets/produtos/pdf/jx2.pdf
 $ENDCMP
@@ -93,6 +117,24 @@ $CMP Potenciômetro
 D Potentiometer
 K resistor variable
 F ~
+$ENDCMP
+#
+$CMP TDA2006
+D 10W Car Radio Audio Amplifier, TO-220-5
+K audio amplifier
+F http://www.st.com/resource/en/datasheet/cd00000123.pdf
+$ENDCMP
+#
+$CMP TIP35
+D NPN transistor, base/collector/emitter
+K transistor NPN
+F https://www.onsemi.com/pub/Collateral/TIP35A-D.PDF
+$ENDCMP
+#
+$CMP TIP36
+D PNP transistor, base/collector/emitter
+K transistor PNP
+F https://www.onsemi.com/pub/Collateral/TIP35A-D.PDF
 $ENDCMP
 #
 $CMP UF4007
