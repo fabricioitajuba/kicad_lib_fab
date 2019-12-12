@@ -1,4 +1,4 @@
-(module CHAVE_IDALL_0142-1 (layer F.Cu) (tedit 5D9CEAF9)
+(module CHAVE_IDALL_0142-1 (layer F.Cu) (tedit 5DEAAB8C)
   (fp_text reference REF** (at 0 -20.828) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

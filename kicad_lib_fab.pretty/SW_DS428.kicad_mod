@@ -1,4 +1,4 @@
-(module SW_DS428 (layer F.Cu) (tedit 5D51B6B2)
+(module SW_DS428 (layer F.Cu) (tedit 5DEAAB4C)
   (fp_text reference CH** (at 0 -20.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -15,9 +15,9 @@
   (pad 3 thru_hole rect (at 0 -17) (size 5.08 5.08) (drill 3.556) (layers *.Cu *.Mask))
   (pad 2 thru_hole rect (at 0 -6) (size 5.08 5.08) (drill 3.556) (layers *.Cu *.Mask))
   (pad 1 thru_hole rect (at 0 0) (size 5.08 5.08) (drill 3.556) (layers *.Cu *.Mask))
-  (model "C:/kicad_lib_fab/kicad_3d_fab/Chave DS428.wrl"
+  (model "/home/fabricio/KiCAD/kicad_lib_fab/kicad_3d_fab/Chave DS428.wrl"
     (at (xyz 0 0 0))
-    (scale (xyz 0.3937 0.3937 0.3937))
+    (scale (xyz 0.3937001 0.3937001 0.3937001))
     (rotate (xyz 0 0 0))
   )
 )
