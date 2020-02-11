@@ -120,7 +120,7 @@ F ~
 $ENDCMP
 #
 $CMP TDA2006
-D 10W Car Radio Audio Amplifier, TO-220-5
+D 12W Audio Amplifier, TO-220-5
 K audio amplifier
 F http://www.st.com/resource/en/datasheet/cd00000123.pdf
 $ENDCMP
