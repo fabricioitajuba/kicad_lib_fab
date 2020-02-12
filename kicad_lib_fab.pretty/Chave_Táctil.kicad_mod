@@ -1,4 +1,4 @@
-(module Chave_Táctil (layer F.Cu) (tedit 5E4438EE)
+(module Chave_Táctil (layer F.Cu) (tedit 5E4449DD)
   (fp_text reference REF** (at 2.921 -9.652) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -30,7 +30,7 @@
   (pad 2 thru_hole roundrect (at 0 -0.508) (size 2.032 2.032) (drill 1.016) (layers *.Cu *.Mask) (roundrect_rratio 0.25))
   (pad 4 thru_hole roundrect (at 5.08 -0.508) (size 2.032 2.032) (drill 1.016) (layers *.Cu *.Mask) (roundrect_rratio 0.25))
   (pad 3 thru_hole roundrect (at 5.08 -7.62) (size 2.032 2.032) (drill 1.016) (layers *.Cu *.Mask) (roundrect_rratio 0.25))
-  (model C:/kicad_lib_fab/kicad_3d_fab/Chave_táctil.wrl
+  (model /home/fabricio/KiCAD/kicad_lib_fab/kicad_3d_fab/Chave_táctil.wrl
     (offset (xyz -0.4572 1.0668 -0.762))
     (scale (xyz 0.3937001 0.3937001 0.3937001))
     (rotate (xyz 0 0 0))
