@@ -1,4 +1,4 @@
-(module Til78 (layer F.Cu) (tedit 5E4ACF19)
+(module Til78 (layer F.Cu) (tedit 5E4AA6BC)
   (fp_text reference D** (at 1.6256 -3.81) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -10,7 +10,7 @@
   (fp_line (start 3.048 1.016) (end 3.048 2.6416) (layer F.SilkS) (width 0.12))
   (pad 1 thru_hole rect (at 3.175 0) (size 1.778 1.778) (drill 1.016) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 0 0) (size 1.778 1.778) (drill 1.016) (layers *.Cu *.Mask))
-  (model C:/kicad_lib_fab/kicad_3d_fab/Til78.wrl
+  (model /home/fabricio/KiCAD/kicad_lib_fab/kicad_3d_fab/Til78.wrl
     (offset (xyz 3.175 0 -2.54))
     (scale (xyz 0.3937001 0.3937001 0.3937001))
     (rotate (xyz 0 0 180))

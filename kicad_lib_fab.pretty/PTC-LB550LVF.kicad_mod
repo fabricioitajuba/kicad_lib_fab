@@ -1,4 +1,4 @@
-(module PTC-LB550LVF (layer F.Cu) (tedit 5D4AC144)
+(module PTC-LB550LVF (layer F.Cu) (tedit 5E4453B1)
   (fp_text reference REF** (at 0 -5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -11,7 +11,7 @@
   (fp_line (start -4.5 -2) (end 4.5 -2) (layer F.SilkS) (width 0.12))
   (pad 1 thru_hole roundrect (at -2.5 -3) (size 1.778 1.778) (drill 1.016) (layers *.Cu *.Mask) (roundrect_rratio 0.25))
   (pad 2 thru_hole roundrect (at 2.5 -3) (size 1.778 1.778) (drill 1.016) (layers *.Cu *.Mask) (roundrect_rratio 0.25))
-  (model C:/kicad_lib_fab/kicad_3d_fab/PTC-LB550LVF.wrl
+  (model /home/fabricio/KiCAD/kicad_lib_fab/kicad_3d_fab/PTC-LB550LVF.wrl
     (offset (xyz -5.5 2 0.5))
     (scale (xyz 0.393701 0.393701 0.393701))
     (rotate (xyz 0 0 0))
