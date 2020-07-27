@@ -1,4 +1,4 @@
-(module CON_SCRELESS_2V (layer F.Cu) (tedit 5D9CEC6D)
+(module CON_SCRELESS_2V (layer F.Cu) (tedit 5F1EC46C)
   (fp_text reference REF** (at 0 -14.732) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -36,6 +36,11 @@
   (model /home/fabricio/KiCAD/kicad_lib_fab/kicad_3d_fab/screw2v.wrl
     (offset (xyz -6.0452 1.016 0))
     (scale (xyz 0.3937001 0.3937001 0.3937001))
+    (rotate (xyz 0 0 0))
+  )
+  (model C:/kicad_lib_fab/kicad_3d_fab/screw2v.wrl
+    (offset (xyz -6.0452 1.016 0))
+    (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
   )
 )

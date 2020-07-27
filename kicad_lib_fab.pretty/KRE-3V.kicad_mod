@@ -1,4 +1,4 @@
-(module KRE-3V (layer F.Cu) (tedit 5D9CEBC2)
+(module KRE-3V (layer F.Cu) (tedit 5F1EC362)
   (fp_text reference CN** (at -0.508 6.223) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -28,6 +28,11 @@
   (model /home/fabricio/KiCAD/kicad_lib_fab/kicad_3d_fab/KRE_3VIAS_Metaltex.wrl
     (offset (xyz -2.8956 -5.3848 0))
     (scale (xyz 0.393701 0.393701 0.393701))
+    (rotate (xyz 0 0 0))
+  )
+  (model C:/kicad_lib_fab/kicad_3d_fab/KRE_3VIAS_Metaltex.wrl
+    (offset (xyz -2.8956 -5.3848 0))
+    (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
   )
 )

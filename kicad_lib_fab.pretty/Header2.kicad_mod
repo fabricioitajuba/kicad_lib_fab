@@ -1,4 +1,4 @@
-(module Header2 (layer F.Cu) (tedit 5D5EC653)
+(module Header2 (layer F.Cu) (tedit 5F1EC928)
   (fp_text reference REF** (at -0.0254 -4.5466) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -14,6 +14,11 @@
   (model /home/fabricio/KiCAD/kicad_lib_fab/kicad_3d_fab/Header2.wrl
     (offset (xyz -2.54 1.27 1.27))
     (scale (xyz 0.393701 0.393701 0.393701))
+    (rotate (xyz 0 0 0))
+  )
+  (model C:/kicad_lib_fab/kicad_3d_fab/Header2.wrl
+    (offset (xyz -2.54 1.27 1.27))
+    (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
   )
 )
