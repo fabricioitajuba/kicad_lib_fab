@@ -1,4 +1,4 @@
-(module Led_3mm_verde (layer F.Cu) (tedit 5D4072C4)
+(module Led_3mm_verde (layer F.Cu) (tedit 5F1EE0A2)
   (fp_text reference D** (at 1.524 -2.159) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -10,8 +10,13 @@
   (fp_line (start 2.286 -1.27) (end 2.286 -0.381) (layer F.SilkS) (width 0.15))
   (pad 1 thru_hole rect (at 3.175 0) (size 1.778 1.778) (drill 1.016) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 0 0) (size 1.778 1.778) (drill 1.016) (layers *.Cu *.Mask))
-  (model "C:/kicad_lib_fab/kicad_3d_fab/Led verde 3mm alto.wrl"
+  (model "/home/fabricio/KiCAD/kicad_lib_fab/kicad_3d_fab/Led verde 3mm alto.wrl"
     (offset (xyz 0 0 -2))
+    (scale (xyz 0.3937 0.3937 0.3937))
+    (rotate (xyz 0 0 90))
+  )
+  (model "C:/kicad_lib_fab/kicad_3d_fab/Led verde 3mm alto.wrl"
+    (offset (xyz 0 0 -1.99898))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 90))
   )

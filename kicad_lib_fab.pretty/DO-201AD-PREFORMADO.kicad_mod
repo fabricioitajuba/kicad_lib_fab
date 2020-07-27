@@ -1,4 +1,4 @@
-(module DO-201AD-PREFORMADO (layer F.Cu) (tedit 5D49D330)
+(module DO-201AD-PREFORMADO (layer F.Cu) (tedit 5F1ED87C)
   (descr "Diode, DO-201AD series, Axial, Horizontal, pin pitch=15.24mm, , length*diameter=9.5*5.2mm^2, , http://www.diodes.com/_files/packages/DO-201AD.pdf")
   (tags "Diode DO-201AD series Axial Horizontal pin pitch 15.24mm  length 9.5mm diameter 5.2mm")
   (fp_text reference REF** (at 8.62 -3.72) (layer F.SilkS)
@@ -31,6 +31,11 @@
   (pad 1 thru_hole circle (at 0 0) (size 4.064 4.064) (drill 2.032) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 17.5 0) (size 4.064 4.064) (drill 2.032) (layers *.Cu *.Mask))
   (model C:/kicad_lib_fab/kicad_3d_fab/DO-201AD-PREFORMADO.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+  (model /home/fabricio/KiCAD/kicad_lib_fab/kicad_3d_fab/DO-201AD-PREFORMADO.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

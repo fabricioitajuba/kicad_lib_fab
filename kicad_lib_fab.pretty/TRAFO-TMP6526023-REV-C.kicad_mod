@@ -1,4 +1,4 @@
-(module TRAFO-TMP6526023-REV-C (layer F.Cu) (tedit 5D9CEBF5)
+(module TRAFO-TMP6526023-REV-C (layer F.Cu) (tedit 5F1EE44F)
   (fp_text reference TR** (at 15.25 -37) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -27,6 +27,11 @@
   (pad 10 thru_hole roundrect (at 29 0) (size 3.81 3.81) (drill 1.524) (layers *.Cu *.Mask) (roundrect_rratio 0.25))
   (model "/home/fabricio/KiCAD/kicad_lib_fab/kicad_3d_fab/Trafo TMP6526023-REVB.wrl"
     (offset (xyz -5.7 36 0))
+    (scale (xyz 0.3937 0.3937 0.3937))
+    (rotate (xyz 0 0 90))
+  )
+  (model "C:/kicad_lib_fab/kicad_3d_fab/Trafo TMP6526023-REVB.wrl"
+    (offset (xyz -5.699759999999999 35.99942 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 90))
   )

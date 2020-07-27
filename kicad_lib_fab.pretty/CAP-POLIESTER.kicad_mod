@@ -1,4 +1,4 @@
-(module CAP-POLIESTER (layer F.Cu) (tedit 5DEAA6ED)
+(module CAP-POLIESTER (layer F.Cu) (tedit 5F1EFF65)
   (fp_text reference C** (at 2.159 -5.0165) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -14,6 +14,11 @@
   (model /home/fabricio/KiCAD/kicad_lib_fab/kicad_3d_fab/Cap-Poliester-7x2x6,5.wrl
     (offset (xyz -0.95 1.65 0))
     (scale (xyz 0.3937001 0.3937001 0.3937001))
+    (rotate (xyz 0 0 0))
+  )
+  (model C:/kicad_lib_fab/kicad_3d_fab/Cap-Poliester-7x2x6,5.wrl
+    (offset (xyz -0.94996 1.651 0))
+    (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
   )
 )

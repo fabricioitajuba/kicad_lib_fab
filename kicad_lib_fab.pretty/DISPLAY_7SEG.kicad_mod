@@ -1,4 +1,4 @@
-(module DISPLAY_7SEG (layer F.Cu) (tedit 5D9CEADB)
+(module DISPLAY_7SEG (layer F.Cu) (tedit 5F1F0082)
   (fp_text reference REF** (at 7.112 -19.05) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -30,6 +30,11 @@
   (model "/home/fabricio/KiCAD/kicad_lib_fab/kicad_3d_fab/Display 7 seg vermelho.wrl"
     (offset (xyz 0 -0.508 0))
     (scale (xyz 0.3937001 0.3937001 0.3937001))
+    (rotate (xyz 0 0 0))
+  )
+  (model "C:/kicad_lib_fab/kicad_3d_fab/Display 7 seg vermelho.wrl"
+    (offset (xyz 0 -0.508 0))
+    (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
   )
 )

@@ -1,4 +1,4 @@
-(module Dissipador_franab_CPP602 (layer F.Cu) (tedit 5DD401DF)
+(module Dissipador_franab_CPP602 (layer F.Cu) (tedit 5F1F010A)
   (fp_text reference REF** (at -6.35 -17.35) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -27,6 +27,11 @@
   (model "/home/fabricio/KiCAD/kicad_lib_fab/kicad_3d_fab/Dissipador CPP602.wrl"
     (offset (xyz -8 -8 0))
     (scale (xyz 0.3937001 0.3937001 0.3937001))
+    (rotate (xyz 0 0 0))
+  )
+  (model "C:/kicad_lib_fab/kicad_3d_fab/Dissipador CPP602.wrl"
+    (offset (xyz -8.000999999999999 -8.000999999999999 0))
+    (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
   )
 )
