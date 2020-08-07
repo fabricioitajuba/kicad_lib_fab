@@ -159,4 +159,9 @@ $CMP VARICAP
 D Diodo com capacitância variável
 $ENDCMP
 #
+$CMP XR2206
+D Monolithic Function Generator
+F https://www.sparkfun.com/datasheets/Kits/XR2206_104_020808.pdf
+$ENDCMP
+#
 #End Doc Library
