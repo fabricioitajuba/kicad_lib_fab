@@ -119,6 +119,11 @@ K resistor variable
 F ~
 $ENDCMP
 #
+$CMP RJ45-5558344-1
+D Conector RJ45 fêmea para PCI 90 graus
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=5558344&DocType=Customer+Drawing&DocLang=English&PartCntxt=5558344-1&DocFormat=pdf
+$ENDCMP
+#
 $CMP TDA2006
 D 12W Audio Amplifier, TO-220-5
 K audio amplifier
