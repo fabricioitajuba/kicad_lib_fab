@@ -76,6 +76,12 @@ $CMP Chave_Idall_0142-1
 D Chave de 2 pólos x 2 posições
 $ENDCMP
 #
+$CMP Dip-Switch-4
+D 4x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol
+K dip switch
+F ~
+$ENDCMP
+#
 $CMP FSDM0365RL
 D Green Mode Fairchild Power Switch
 F http://www.mouser.com/ds/2/149/FairchildSemiconductor_16146734254-795977.pdf
@@ -162,6 +168,11 @@ $ENDCMP
 #
 $CMP VARICAP
 D Diodo com capacitância variável
+$ENDCMP
+#
+$CMP XR2206
+D Monolithic Function Generator
+F https://www.sparkfun.com/datasheets/Kits/XR2206_104_020808.pdf
 $ENDCMP
 #
 #End Doc Library
