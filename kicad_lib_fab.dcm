@@ -103,6 +103,11 @@ $CMP JX2RCx
 F https://www.metaltex.com.br/assets/produtos/pdf/jx2.pdf
 $ENDCMP
 #
+$CMP LM555
+D Timmer
+F https://www.ti.com/lit/ds/symlink/lm555.pdf
+$ENDCMP
+#
 $CMP MA1RCx
 D Relé ultra-miniatura
 F https://www.metaltex.com.br/assets/produtos/pdf/ma.pdf
