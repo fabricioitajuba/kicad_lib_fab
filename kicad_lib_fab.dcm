@@ -72,6 +72,11 @@ K cap capacitor
 F ~
 $ENDCMP
 #
+$CMP CD4521B
+D CMOS 24-Stage Frequency Divider
+F https://www.ti.com/lit/ds/symlink/cd4521b.pdf?ts=1600526603406&ref_url=https%253A%252F%252Fwww.google.com%252F
+$ENDCMP
+#
 $CMP Chave_Idall_0142-1
 D Chave de 2 pólos x 2 posições
 $ENDCMP
