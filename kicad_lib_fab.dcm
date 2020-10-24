@@ -66,6 +66,12 @@ K TTL BUFFER 3State BUS
 F http://www.ti.com/lit/gpn/sn74HCT541
 $ENDCMP
 #
+$CMP BTA26-600B
+D 25A RMS, 600-800V Off-State Voltage, Triac, TOP3
+K Triac
+F http://pdf.datasheetcatalog.com/datasheet/PowerInnovations/mXuqxvy.pdf
+$ENDCMP
+#
 $CMP CAP30-MOD
 D Unpolarized capacitor
 K cap capacitor
