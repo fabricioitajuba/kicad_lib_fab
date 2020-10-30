@@ -1,48 +1,6 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP 6A05
-D 50V 6A General Purpose Rectifier Diode, D6
-K diode
-F http://www.eicsemi.com/datasheet/6A05_10.PDF
-$ENDCMP
-#
-$CMP 6A1
-D 100V 6A General Purpose Rectifier Diode, D6
-K diode
-F http://www.eicsemi.com/datasheet/6A05_10.PDF
-$ENDCMP
-#
 $CMP 6A10
-D 1000V 6A General Purpose Rectifier Diode, D6
-K diode
-F http://www.eicsemi.com/datasheet/6A05_10.PDF
-$ENDCMP
-#
-$CMP 6A2
-D 200V 6A General Purpose Rectifier Diode, D6
-K diode
-F http://www.eicsemi.com/datasheet/6A05_10.PDF
-$ENDCMP
-#
-$CMP 6A4
-D 400V 6A General Purpose Rectifier Diode, D6
-K diode
-F http://www.eicsemi.com/datasheet/6A05_10.PDF
-$ENDCMP
-#
-$CMP 6A6
-D 600V 6A General Purpose Rectifier Diode, D6
-K diode
-F http://www.eicsemi.com/datasheet/6A05_10.PDF
-$ENDCMP
-#
-$CMP 6A8
-D 800V 6A General Purpose Rectifier Diode, D6
-K diode
-F http://www.eicsemi.com/datasheet/6A05_10.PDF
-$ENDCMP
-#
-$CMP 6Axx
 D General Purpose Rectifier Diode, D6
 K diode
 F http://www.eicsemi.com/datasheet/6A05_10.PDF
@@ -102,6 +60,30 @@ $CMP HR911105A
 D Conector RJ45 - MagJack
 K MagJack
 F http://www.kosmodrom.com.ua/pdf/HR911105A.pdf
+$ENDCMP
+#
+$CMP IRF630
+D 9A Id, 200V Vds, 0.40Ohm Rds, N-Channel MOSFET
+K N-Channel MOSFET
+F https://www.vishay.com/docs/91031/sihf630p.pdf
+$ENDCMP
+#
+$CMP IRF640
+D 18A Id, 200V Vds, 0.18Ohm Rds, N-Channel MOSFET
+K N-Channel MOSFET
+F https://www.vishay.com/docs/91036/sihf640.pdf
+$ENDCMP
+#
+$CMP IRF730
+D 5.5A Id, 400V Vds, 1.00Ohm Rds, N-Channel MOSFET
+K N-Channel MOSFET
+F https://www.vishay.com/docs/91036/sihf640.pdf
+$ENDCMP
+#
+$CMP IRF840
+D 8A Id, 500V Vds, 0.85Ohm Rds, N-Channel MOSFET
+K N-Channel MOSFET
+F https://www.vishay.com/docs/91070/sihf840.pdf
 $ENDCMP
 #
 $CMP IRFP450
