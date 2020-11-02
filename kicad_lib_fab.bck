@@ -74,6 +74,12 @@ K N-Channel MOSFET
 F https://www.vishay.com/docs/91036/sihf640.pdf
 $ENDCMP
 #
+$CMP IRF730
+D 5.5A Id, 400V Vds, 1.00Ohm Rds, N-Channel MOSFET
+K N-Channel MOSFET
+F https://www.vishay.com/docs/91036/sihf640.pdf
+$ENDCMP
+#
 $CMP IRF840
 D 8A Id, 500V Vds, 0.85Ohm Rds, N-Channel MOSFET
 K N-Channel MOSFET

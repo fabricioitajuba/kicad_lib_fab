@@ -1,4 +1,4 @@
-(module RES300 (layer F.Cu) (tedit 5F96D7F3)
+(module RES300 (layer F.Cu) (tedit 5FA05FAD)
   (fp_text reference R** (at 2 -4.25) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

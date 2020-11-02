@@ -1,4 +1,4 @@
-(module Phoenix-EMKDS-2-5-2-5-08 (layer F.Cu) (tedit 5F96D9A0)
+(module Phoenix-EMKDS-2-5-2-5-08 (layer F.Cu) (tedit 5FA05E63)
   (fp_text reference CN** (at -4.0005 -6.5405) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -13,6 +13,11 @@
   (pad 2 thru_hole rect (at 2.53 0) (size 3.048 3.048) (drill 1.778) (layers *.Cu *.Mask))
   (pad 1 thru_hole rect (at -2.55 0) (size 3.048 3.048) (drill 1.778) (layers *.Cu *.Mask))
   (model /home/fabricio/KiCAD/kicad_lib_fab/kicad_3d_fab/Phoenix-EMKDS-2-5-2-5-08.stp
+    (offset (xyz -5.699759999999999 -5.88772 0.09906))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 90 180 -90))
+  )
+  (model C:/kicad_lib_fab/kicad_3d_fab/Phoenix-EMKDS-2-5-2-5-08.stp
     (offset (xyz -5.699759999999999 -5.88772 0.09906))
     (scale (xyz 1 1 1))
     (rotate (xyz 90 180 -90))

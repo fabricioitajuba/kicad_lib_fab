@@ -1,8 +1,8 @@
-(module ML2RCx (layer F.Cu) (tedit 5F930F89)
+(module Relé_Metaltex-ML2RCx (layer F.Cu) (tedit 5FA05F25)
   (fp_text reference REF** (at -8 -6.2) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value ML2RCx (at -6.4 6.5) (layer F.Fab)
+  (fp_text value Relé_Metaltex-ML2RCx (at -6.4 6.5) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -10.1 5) (end -10.1 -5) (layer F.SilkS) (width 0.12))
@@ -19,6 +19,11 @@
   (pad 12 thru_hole roundrect (at -9 3.8) (size 2.5 2.5) (drill 1.3) (layers *.Cu *.Mask) (roundrect_rratio 0.25))
   (model "/home/fabricio/KiCAD/kicad_lib_fab/kicad_3d_fab/Relé metaltex ML.wrl"
     (offset (xyz -10.2 0 0))
+    (scale (xyz 0.3937 0.3937 0.3937))
+    (rotate (xyz 0 0 0))
+  )
+  (model "C:/kicad_lib_fab/kicad_3d_fab/Relé metaltex ML.wrl"
+    (offset (xyz -10.20064 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
   )

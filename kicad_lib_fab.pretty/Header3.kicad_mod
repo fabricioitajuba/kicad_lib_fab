@@ -1,4 +1,4 @@
-(module Header3 (layer F.Cu) (tedit 5F9717EA)
+(module Header3 (layer F.Cu) (tedit 5FA05C4C)
   (fp_text reference REF** (at -1.2319 -2.0066) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -13,6 +13,11 @@
   (pad 2 thru_hole trapezoid (at 0.0635 0) (size 1.524 1.524) (drill 1.016) (layers *.Cu *.Mask))
   (pad 3 thru_hole trapezoid (at 2.6035 0) (size 1.524 1.524) (drill 1.016) (layers *.Cu *.Mask))
   (model "/home/fabricio/KiCAD/kicad_lib_fab/kicad_3d_fab/Barra Simples 3.step"
+    (offset (xyz -2.5146 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+  (model "C:/kicad_lib_fab/kicad_3d_fab/Barra Simples 3.step"
     (offset (xyz -2.5146 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

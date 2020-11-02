@@ -1,4 +1,4 @@
-(module HEADER5-S (layer F.Cu) (tedit 5D2E087F)
+(module HEADER5-S (layer F.Cu) (tedit 5FA05C56)
   (fp_text reference CN** (at 0 -2.286) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

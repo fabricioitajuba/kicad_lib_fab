@@ -1,4 +1,4 @@
-(module Resistor-0125W (layer F.Cu) (tedit 5F96DB15)
+(module Resistor-0125W (layer F.Cu) (tedit 5FA05FB9)
   (fp_text reference R** (at 0 -1.778) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

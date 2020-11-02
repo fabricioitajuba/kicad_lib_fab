@@ -1482,6 +1482,18 @@ X 1 1 -100 0 100 R 50 50 1 1 N
 ENDDRAW
 ENDDEF
 #
+# observação
+#
+DEF observação obs 0 40 Y Y 1 F N
+F0 "obs" 0 100 50 H V C CNN
+F1 "observação" 0 -100 50 H V C CNN
+F2 "kicad_lib_fab:obs" 50 -200 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+S -50 50 50 -50 0 1 0 N
+ENDDRAW
+ENDDEF
+#
 # protoboard_shako
 #
 DEF protoboard_shako pb 0 40 Y Y 1 F N

@@ -1,4 +1,4 @@
-(module Chave_Táctil (layer F.Cu) (tedit 5F1F001A)
+(module Chave_Táctil (layer F.Cu) (tedit 5FA05AE8)
   (fp_text reference REF** (at 2.921 -9.652) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

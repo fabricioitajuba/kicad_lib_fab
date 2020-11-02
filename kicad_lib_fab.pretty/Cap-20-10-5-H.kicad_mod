@@ -1,4 +1,4 @@
-(module Cap-20-10-5-H (layer F.Cu) (tedit 5F58D99A)
+(module Cap-20-10-5-H (layer F.Cu) (tedit 5FA059DB)
   (fp_text reference REF** (at 0 -21) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -20,7 +20,7 @@
     (scale (xyz 0.3937001 0.3937001 0.3937001))
     (rotate (xyz 0 0 0))
   )
-  (model :C:/kicad_lib_fab/kicad_3d_fab/Cap-20-10-5-H.wrl
+  (model C:/kicad_lib_fab/kicad_3d_fab/Cap-20-10-5-H.wrl
     (offset (xyz -5 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))

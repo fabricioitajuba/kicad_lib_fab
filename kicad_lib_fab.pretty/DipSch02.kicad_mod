@@ -1,4 +1,4 @@
-(module DipSch02 (layer F.Cu) (tedit 5F7E1709)
+(module DipSch02 (layer F.Cu) (tedit 5FA05B58)
   (fp_text reference REF** (at 0 -6.096) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

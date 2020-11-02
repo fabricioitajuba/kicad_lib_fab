@@ -1,4 +1,4 @@
-(module Cap-12-8-3-H-L (layer F.Cu) (tedit 5F6DF839)
+(module Cap-12-8-3-H-L (layer F.Cu) (tedit 5FA05964)
   (fp_text reference REF** (at 4.25 -16.25) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -16,6 +16,11 @@
   (model /home/fabricio/KiCAD/kicad_lib_fab/kicad_3d_fab/Cap-12-8-3-H-L.wrl
     (offset (xyz -1 2.5 -1))
     (scale (xyz 0.3937001 0.3937001 0.3937001))
+    (rotate (xyz 0 0 0))
+  )
+  (model C:/kicad_lib_fab/kicad_3d_fab/Cap-12-8-3-H-L.wrl
+    (offset (xyz -1.00076 2.49936 -1.00076))
+    (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
   )
 )
