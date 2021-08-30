@@ -1,4 +1,4 @@
-(module Cap-17Lx16,5Cx11,5H-16,5P (layer F.Cu) (tedit 611BC8B6)
+(module Cap-17Lx16,5Cx11,5H-16,5P (layer F.Cu) (tedit 612CC261)
   (fp_text reference REF** (at 2.5 -10) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -11,13 +11,13 @@
   (fp_line (start 19 -2) (end 0.5 -2) (layer F.SilkS) (width 0.12))
   (pad 1 thru_hole roundrect (at 1.5 -5.5) (size 3 3) (drill 1.5) (layers *.Cu *.Mask) (roundrect_rratio 0.25))
   (pad 2 thru_hole roundrect (at 18 -5.5) (size 3 3) (drill 1.5) (layers *.Cu *.Mask) (roundrect_rratio 0.25))
-  (model /home/fabricio/KiCAD/kicad_lib_fab/kicad_3d_fab/Cap-Poliester-18x11x18.wrl
-    (at (xyz 0 0 0))
-    (scale (xyz 0.3937001 0.3937001 0.3937001))
+  (model /home/fabricio/KiCAD/kicad_lib_fab/kicad_3d_fab/Cap-16,5Lx6,5Cx11H-17P.wrl
+    (offset (xyz 1 2.3 0))
+    (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
   )
-  (model C:/kicad_lib_fab/kicad_3d_fab/Cap-Poliester-18x11x18.wrl
-    (at (xyz 0 0 0))
+  (model C:/kicad_lib_fab/kicad_3d_fab/Cap-16,5Lx6,5Cx11H-17P.wrl
+    (offset (xyz 1 2.3 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
   )
