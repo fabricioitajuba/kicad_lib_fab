@@ -1,0 +1,8 @@
+- Salvar o arquivo "bom-csv-simples.xsl" na pasta: "KiCad\bin\scripting\plugins"
+
+- Pressione o ícone "BOM" no Eeschema;
+
+- Pressione o botão "+" e adicione o arquivo: "bom-csv-simples.xsl"
+
+Linha de comando:
+xsltproc -o "%O.csv" "C:\Program Files\KiCad\bin\scripting\plugins\bom-csv-simples.xsl" "%I"
